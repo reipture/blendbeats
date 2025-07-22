@@ -7,7 +7,7 @@ Blendbeats is a desktop player that merges Spotify and SoundCloud playlists and 
 
 ### 1. CLI MVP
 - [x] Project setup and environment configuration
-- [ ] Spotify authentication via CLI
+- [x] Spotify authentication via CLI
 - [ ] SoundCloud authentication via CLI
 - [ ] Import playlists from Spotify
 - [ ] Import playlists from SoundCloud
