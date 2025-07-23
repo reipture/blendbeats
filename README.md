@@ -29,3 +29,6 @@ Blendbeats is a desktop player that merges Spotify and SoundCloud playlists and 
 - Universal playlist import/export
 - Cross-platform search for tracks
 - Offline cache for tracks and playlists
+
+---
+The project is frozen, I will continue after fixing some stuff here and there. 
